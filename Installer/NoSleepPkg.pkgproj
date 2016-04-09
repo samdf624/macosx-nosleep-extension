@@ -1113,7 +1113,7 @@
 			ZW50LVN0eWxlLVR5cGUiIGNvbnRlbnQ9InRleHQvY3NzIj4KPHRp
 			dGxlPjwvdGl0bGU+CjxtZXRhIG5hbWU9IkdlbmVyYXRvciIgY29u
 			dGVudD0iQ29jb2EgSFRNTCBXcml0ZXIiPgo8bWV0YSBuYW1lPSJD
-			b2NvYVZlcnNpb24iIGNvbnRlbnQ9IjEzNDMuMTQiPgo8c3R5bGUg
+			b2NvYVZlcnNpb24iIGNvbnRlbnQ9IjE0MDQuNDYiPgo8c3R5bGUg
 			dHlwZT0idGV4dC9jc3MiPgo8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5
 			Pgo8L2JvZHk+CjwvaHRtbD4K
 			</data>
@@ -1564,6 +1564,23 @@
 				</dict>
 				<dict>
 					<key>SEPARATOR</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>PATTERNS_ARRAY</key>
+					<array>
+						<dict>
+							<key>REGULAR_EXPRESSION</key>
+							<false/>
+							<key>STRING</key>
+							<string></string>
+							<key>TYPE</key>
+							<integer>0</integer>
+						</dict>
+					</array>
+					<key>PROTECTED</key>
+					<false/>
+					<key>STATE</key>
 					<true/>
 				</dict>
 			</array>
